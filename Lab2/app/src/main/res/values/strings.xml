@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="send_request">Send request</string>
+    <string name="generated_graphic">KEist</string>
+    <string name="title">Title</string>
+    <string name="body_text">Text</string>
+</resources>

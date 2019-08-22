@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="x">X or Position</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="compass">COMPASS</string>
+    <string name="no_sensor">No sensor</string>
+    <string name="Coordinates_text">Coordinates: </string>
+    <string name="Latitude_text">No sensor</string>
+    <string name="Longitude_text">No sensor</string>
+</resources>

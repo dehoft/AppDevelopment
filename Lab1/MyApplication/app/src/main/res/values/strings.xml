@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="secondActivityButton">Second Activity</string>
+    <string name="thirdActivityButton">Third Activity</string>
+    <string name="textfield">Text Field</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
